@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "828646845663",
+    "firebase_url": "https://rntwitter-60d83.firebaseio.com",
+    "project_id": "rntwitter-60d83",
+    "storage_bucket": "rntwitter-60d83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828646845663:android:f119db8d2482ee11",
+        "android_client_info": {
+          "package_name": "com.twitterlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828646845663-3qjigrdk5vo02g2g5i1tu9tb4v7iiep8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs7ns-LPthZkvR-IF7L04U8mjRlE9C0ks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828646845663-3qjigrdk5vo02g2g5i1tu9tb4v7iiep8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
